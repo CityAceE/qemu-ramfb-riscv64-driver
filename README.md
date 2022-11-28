@@ -1,4 +1,4 @@
-This project is adaptation of [Bare metal Qemu-Ramfb implementation](https://github.com/luickk/qemu-ramfb-aarch64-driver) from aarch64 to riscv64 architecture. I've just rewrote beginning assembly block, changed pors and memory addresses.
+This project is my adaptation of [Bare metal Qemu-Ramfb implementation](https://github.com/luickk/qemu-ramfb-aarch64-driver) from aarch64 to riscv64 architecture. I've just rewrote beginning assembly block, changed pors and memory addresses.
 Below is an original README.md.
 
 # Bare metal Qemu-Ramfb implementation
